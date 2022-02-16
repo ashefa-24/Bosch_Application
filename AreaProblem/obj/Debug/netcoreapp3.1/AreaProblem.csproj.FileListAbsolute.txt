@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.exe
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.deps.json
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.dll
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\bin\Debug\netcoreapp3.1\AreaProblem.pdb
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.dll
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.pdb
+C:\Users\adminvm.adminvm\source\repos\AreaProblem\AreaProblem\obj\Debug\netcoreapp3.1\AreaProblem.genruntimeconfig.cache
